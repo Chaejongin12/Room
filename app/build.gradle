@@ -42,7 +42,7 @@ android {
 
 dependencies {
     def roomVersion = "2.5.0"
-    def lifecycleVersion = "1.6.0"
+    def lifecycleVersion = "2.2.0"
     def junitVersion = "4.13.2"
     def androidxJunitVersion = "4.13.2"
     def espressoVersion = "3.1.0"
